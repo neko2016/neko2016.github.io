@@ -6,5 +6,7 @@ Team members:
 * Adrian Langtry (photographer, videographer)
 * Pavlina Kubelkova (designer, videographer)
 
-Also hosted under a separate account (tcd-museumbuilding)
+The website is also hosted under another account (tcd-museumbuilding) :
+
 http://tcd-museumbuilding.github.io/
+
